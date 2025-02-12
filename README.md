@@ -89,7 +89,7 @@ me.say_hi()
 ---
 > **_"Transforming Ideas into Reality with Code! 🚀"_** 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/ShrinathSontakke/ShrinathSontakke/main/wave.svg" alt="Github Stats" />
 </p>
 
  
