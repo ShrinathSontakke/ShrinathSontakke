@@ -7,18 +7,6 @@
 
 ---
 
-## 🌎 **Let's Connect**
-<p align="center">
-  <a href="https://linkedin.com/in/shrinath-sontakke">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:shrinath.sontakke@example.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
----
-
 ## ⚡ **Tech Stack**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,r,react,angular,nodejs,fastapi,mongodb,mysql,postgres,aws,gcp,azure,tensorflow,scikit,git,docker,postman,vscode" />
@@ -57,8 +45,14 @@
 ---
 
 ## ⚡ **Let's Build Something Amazing Together!**
-📧 **Email:** shrinath.sontakke@example.com  
-🌐 **Website:** [Your Portfolio (if available)](https://your-portfolio.com)  
+<p align="center">
+  <a href="https://linkedin.com/in/shrinath-sontakke">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:shrinath.sontakke@example.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 ---
 
