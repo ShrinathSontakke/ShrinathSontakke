@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F70C0C&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Building+Scalable+AI-Driven+Applications;Innovation+%7C+Automation+%7C+Data-Driven+Development" />
 </p>
 
+<p align="center">
+<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
+</p
+
 ---
 
 ```python
