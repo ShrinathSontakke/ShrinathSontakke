@@ -47,7 +47,6 @@ me.say_hi()
 
   <!-- Machine Learning -->
   <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" style="margin: 8px;">
-  <img src="https://skillicons.dev/icons?i=scikit-learn" alt="Scikit-learn" style="margin: 8px;">
 
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode" alt="Tools" style="margin: 8px;">
