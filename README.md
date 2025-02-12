@@ -58,8 +58,6 @@ me.say_hi()
 
 ---
 
----
-
 ## 🏆 **Achievements and GitHub Trophies**
 - 🏅 **Total Stars Earned:** `1,000+`
 - 🔄 **Total PRs:** `350`
