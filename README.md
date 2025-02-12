@@ -19,14 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ShrinathSontakke&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShrinathSontakke&theme=radical&hide_border=false&include_all_commits=true" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ShrinathSontakke&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contributions">
-</p>
-
 ---
 
 ## 🏆 **Achievements**
@@ -37,19 +29,12 @@
 
 ---
 
-## 🚀 **Profile Views**
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ShrinathSontakke&icon=0&color=3" alt="Profile Views">
-</p>
-
----
-
 ## ⚡ **Let's Build Something Amazing Together!**
 <p align="center">
   <a href="https://linkedin.com/in/shrinath-sontakke">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:shrinath.sontakke@example.com">
+  <a href="mailto:shrisontakke88@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
