@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<br><img src="https://github.com/ShrinathSontakke/ShrinathSontakke/blob/master/hadder.gif" width="280px"><br><br>
+<br><img src="https://github.com/ShrinathSontakke/ShrinathSontakke/blob/main/hadder.gif" width="280px"><br><br>
 </p
 
 ---
